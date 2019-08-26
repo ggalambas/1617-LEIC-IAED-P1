@@ -1,6 +1,6 @@
 # Introduction to Algorithms and Data Structures (IAED)
 ## Bachelor of Computer Science & Engineering @ Instituto Superior Técnico
-1st Project, Forum
+1st Project, Message Board
 <br><br>
 #### Language
 C
