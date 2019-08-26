@@ -7,5 +7,5 @@ C
 #### How to run
 ```
 gcc -Wall -o proj1 *.c
-./proj1 < test01.in > test01.myout
+./proj1 < teste01.in > teste01.myout
 ```
