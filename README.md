@@ -4,8 +4,16 @@
 <br><br>
 #### Language
 C
-#### How to run
-```
-gcc -Wall -o proj1 *.c
-./proj1 < teste01.in > teste01.myout
-```
+
+
+#### Compile
+```gcc -Wall -o proj1 *.c```
+
+#### Run
+```./proj1 < teste01.in > teste01.myout```
+
+#### Run using the script run.sh
+```./run.sh proj1.c teste01.in```
+
+#### Run using the script runall.sh
+```./runall.sh proj1.c```
